@@ -44,7 +44,7 @@
 ---
 
 ## 🤖 Role Focus
-![AI Platform Engineer](https://img.shields.io/badge/AI%20Solutions%20Architect-%23000000.svg?style=for-the-badge&logo=azurearchitect&logoColor=white)  
+![AI Platform Engineer](https://img.shields.io/badge/AI%20Platform%20Engineer-%23000000.svg?style=for-the-badge&logo=azurearchitect&logoColor=white)  
 ![AI Solutions Architect](https://img.shields.io/badge/AI%20Solutions%20Architect-%23000000.svg?style=for-the-badge&logo=azurearchitect&logoColor=white)  
 
 ---
