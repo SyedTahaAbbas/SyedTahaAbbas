@@ -57,9 +57,3 @@
 
 ---
 
-<!-- 📈 Optional GitHub Stats Section -->
-<!-- If you want auto-updating GitHub stats, just uncomment below -->
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SyedTahaAbbas&show_icons=true&theme=dark)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=SyedTahaAbbas&theme=dark)  
