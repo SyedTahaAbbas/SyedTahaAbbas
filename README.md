@@ -1,8 +1,6 @@
 # Syed Taha Abbas  
 ## Artificial Intelligence Engineer | ML • GenAI • MLOps • AI Platforms  
 
-Munich, Germany  
-[LinkedIn](http://linkedin.com/in/syedtahaabbas/)
 ---
 
 # 🚀 About Me
