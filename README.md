@@ -1,51 +1,139 @@
-# 💻 Tech Stack
+# Syed Taha Abbas  
+## Artificial Intelligence Engineer | ML • GenAI • MLOps • AI Platforms  
 
-## 🐍 Programming & Machine Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+Munich, Germany  
+[LinkedIn](http://linkedin.com/in/syedtahaabbas/)
+---
+
+# 🚀 About Me
+
+Artificial Intelligence Engineer specializing in **Model Development, Generative AI Systems, and Production-Grade AI Platforms**.
+
+I design and deploy scalable ML and LLM systems — from experimentation to production — using modern cloud-native infrastructure, MLOps pipelines, and observability tooling.
+
+Core focus areas:
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Workflows
+- Causal Machine Learning
+- End-to-End ML Lifecycle
+- Kubernetes-based AI deployment
 
 ---
 
-## ☁️ Cloud, DevOps & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23007ACC.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
-![DevOps](https://img.shields.io/badge/DevOps-%23000000.svg?style=for-the-badge&logo=devops&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+# 💻 Technical Stack
+
+## 🧠 AI / ML & Generative AI
+
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Causal ML](https://img.shields.io/badge/Causal_ML-000000?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+- LLM Architectures  
+- Retrieval-Augmented Generation (RAG)  
+- Agent-based Systems  
+- Model Evaluation & Monitoring  
+- Treatment Effect Estimation (EconML)  
+- Sensitivity & Robustness Analysis  
 
 ---
 
-## 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+## 🐍 Programming & APIs
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge)
 
 ---
 
-## 📊 Monitoring & Observability
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) 
-![ELK](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)  
+## ☁️ Cloud & AI Platforms
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonaws)
+![Amazon SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws)
+![Azure AI](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure)
+![Azure AI Studio](https://img.shields.io/badge/Azure_AI_Studio-0078D4?style=for-the-badge)
+
+- Multi-cloud AI architectures  
+- AI model hosting & inference pipelines  
+- Data lake integrations  
 
 ---
 
-## 🖼️ Frameworks
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+## ⚙️ MLOps & Infrastructure
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+
+- CI/CD for ML systems  
+- Containerized model deployment  
+- Infrastructure as Code  
+- Scalable AI microservices  
 
 ---
 
-## 🤖 Role Focus
-![AI Platform Engineer](https://img.shields.io/badge/AI%20Platform%20Engineer-%23000000.svg?style=for-the-badge&logo=azurearchitect&logoColor=white)  
-![AI Solutions Architect](https://img.shields.io/badge/AI%20Solutions%20Architect-%23000000.svg?style=for-the-badge&logo=azurearchitect&logoColor=white)  
+## 📊 Observability & Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic)
+
+- Model performance monitoring  
+- Logging & distributed tracing  
+- Infrastructure observability  
 
 ---
 
+## 🗄️ Data Engineering & Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite)
+
+- Pandas  
+- NumPy  
+- EconML  
+- Feature Engineering  
+- Data Pipelines  
+
+---
+
+# 🏗️ Selected AI Projects
+
+## 🎓 Causal ML for Electricity Aid Allocation
+- Designed end-to-end causal ML pipeline  
+- Estimated treatment effects using EconML  
+- Performed sensitivity analysis  
+- Produced policy-relevant allocation strategy  
+
+Repository:  
+👉 https://github.com/SyedTahaAbbas/causal-ml-for-electricity-access  
+
+---
+
+# 🎯 Current Focus
+
+- Production-grade LLM systems  
+- Advanced RAG architectures  
+- Agentic AI workflows  
+- AI Platform Engineering  
+- Scalable ML infrastructure  
+
+---
+
+# 📫 Let’s Connect
+
+If you're building AI platforms, deploying LLM systems, or scaling ML infrastructure — let's collaborate.
