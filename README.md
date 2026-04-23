@@ -1,22 +1,22 @@
 # Syed Taha Abbas  
-## Artificial Intelligence Engineer | ML • GenAI • MLOps • AI Platforms  
+## Artificial Intelligence Product Engineer | ML • GenAI • MLOps • AI Platforms  
 
 ---
 
 # 🚀 About Me
 
-Artificial Intelligence Engineer specializing in **Model Development, Generative AI Systems, and Production-Grade AI Platforms**.
+Artificial Intelligence Product Engineer specializing in **Model Development, Generative AI Systems, and Production-Grade AI Platforms**.
 
 I design and deploy scalable ML and LLM systems — from experimentation to production — using modern cloud-native infrastructure, MLOps pipelines, and observability tooling.
 
 Core focus areas:
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI Workflows
+- Generative AI Systems (LLMs, RAG, Agents)
+- MLOps & ML Platform Design
+- End-to-End AI Product Development
 - Causal Machine Learning
-- End-to-End ML Lifecycle
-- Kubernetes-based AI deployment
+- Cloud-Native AI Platform Engineering
+- Distributed Systems for AI Workloads
 
 ---
 
@@ -34,9 +34,9 @@ Core focus areas:
 
 - LLM Architectures  
 - Retrieval-Augmented Generation (RAG)  
-- Agent-based Systems  
-- Model Evaluation & Monitoring  
-- Treatment Effect Estimation (EconML)  
+- Agent-based Systems & Workflows
+- Model Evaluation, Guardrails & Monitoring  
+- Treatment Effect Estimation   
 - Sensitivity & Robustness Analysis  
 
 ---
@@ -48,7 +48,24 @@ Core focus areas:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+ 
+## 🔄 Data Engineering
+ 
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+ 
+- Batch & Stream Processing (Spark, Kafka, Flink)  
+- Data Pipeline Orchestration (Airflow)  
+- ETL/ELT & Data Transformation  
+- Feature Engineering & Data Modeling  
+- Data Lake & Lakehouse Architectures  
 
 ---
 
@@ -66,19 +83,36 @@ Core focus areas:
 
 ---
 
-## ⚙️ MLOps & Infrastructure
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+## ⚙️ MLOps & Model Lifecycle
+ 
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+ 
+- Experiment Tracking & Model Registry (MLflow)  
+- CI/CD for ML Systems  
+- Containerized Model Deployment (Docker, Kubernetes)  
+- Infrastructure as Code (Terraform, Ansible)  
+- Model Packaging, Versioning & Reproducibility  
+- Automated Training & Retraining Pipelines  
 
-- CI/CD for ML systems  
-- Containerized model deployment  
-- Infrastructure as Code  
-- Scalable AI microservices  
+---
+
+## ☁️ Cloud & AI Platforms
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonaws)
+![Amazon SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws)
+![Azure AI](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure)
+![Azure AI Studio](https://img.shields.io/badge/Azure_AI_Studio-0078D4?style=for-the-badge)
+
+- Multi-Cloud AI Architectures (AWS, Azure)  
+- AI Model Hosting & Inference Pipelines  
+- Data Lake & Storage Infrastructure  
+- Managed ML Services (SageMaker, Bedrock, Azure AI Studio) 
 
 ---
 
@@ -88,24 +122,10 @@ Core focus areas:
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic)
 
-- Model performance monitoring  
-- Logging & distributed tracing  
-- Infrastructure observability  
-
----
-
-## 🗄️ Data Engineering & Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite)
-
-- Pandas  
-- NumPy  
-- EconML  
-- Feature Engineering  
-- Data Pipelines  
+- AI Agent Performance Monitoring  
+- Model Drift Detection & Alerting  
+- Logging & Distributed Tracing  
+- Infrastructure & Pipeline Observability 
 
 ---
 
