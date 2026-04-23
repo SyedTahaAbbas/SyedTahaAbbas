@@ -105,17 +105,3 @@ If you're building:
 - ML infrastructure  
 
 → I’m open to interesting problems and collaborations.
-
----
-
-## 📊 GitHub Stats
-
-![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedTahaAbbas&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedTahaAbbas&layout=compact&hide_border=true)
-
----
-
-## ⚡ Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=SyedTahaAbbas&color=blue)
