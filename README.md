@@ -36,19 +36,7 @@ I build **production AI systems**, not just models.
 
 ## 🧩 System Architecture Focus
 
-Data Sources → Kafka → Spark/Flink → Feature Pipelines
-↓
-Data Lake / Warehouse
-↓
-Model Training (MLflow)
-↓
-LLM / ML Services (FastAPI)
-↓
-Deployment (Docker + Kubernetes)
-↓
-Monitoring (Prometheus + Grafana + ELK)
-
----
+<img width="1536" height="1024" alt="ChatGPT Image Apr 24, 2026, 01_07_18 AM" src="https://github.com/user-attachments/assets/d2e26c0c-9423-474c-be5d-117130874b0d" />
 
 ---
 
