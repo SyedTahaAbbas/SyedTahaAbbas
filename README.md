@@ -1,5 +1,5 @@
-# Syed Taha Abbas  
-## Artificial Intelligence Product Engineer | ML • GenAI • MLOps • AI Platforms  
+# 👋 Hi, I'm Syed Taha Abbas  
+## AI Product Engineer | Building Production-Grade AI Systems | ML • GenAI • MLOps • AI Platforms  
 
 ---
 
