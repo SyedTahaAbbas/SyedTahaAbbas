@@ -1,157 +1,133 @@
 # 👋 Hi, I'm Syed Taha Abbas  
-## AI Product Engineer | Building Production-Grade AI Systems | ML • GenAI • MLOps • AI Platforms  
+## AI Product Engineer | Building Production-Grade AI Systems 
 
 ---
 
-# 🚀 About Me
+## ⚡ TL;DR
 
-Artificial Intelligence Product Engineer specializing in **Model Development, Generative AI Systems, and Production-Grade AI Platforms**.
-
-I design and deploy scalable ML and LLM systems — from experimentation to production — using modern cloud-native infrastructure, MLOps pipelines, and observability tooling.
-
-Core focus areas:
-
-- Generative AI Systems (LLMs, RAG, Agents)
-- MLOps & ML Platform Design
-- End-to-End AI Product Development
-- Causal Machine Learning
-- Cloud-Native AI Platform Engineering
-- Distributed Systems for AI Workloads
+- 🧠 **AI Systems Engineer** (LLMs, RAG, Agents)  
+- ⚙️ **MLOps + Platform Engineering** (K8s, CI/CD, MLflow)  
+- 📡 **Data Engineering** (Spark, Kafka, Flink)  
+- ☁️ **Cloud-native AI** (AWS, Azure)  
+- 🏗️ Built **end-to-end AI systems from data → model → deployment → monitoring**
 
 ---
 
-# 💻 Technical Stack
+## 🧠 What I Actually Do
 
-## 🧠 AI / ML & Generative AI
+I build **production AI systems**, not just models.
 
-![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/GenAI-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Causal ML](https://img.shields.io/badge/Causal_ML-000000?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-- LLM Architectures  
-- Retrieval-Augmented Generation (RAG)  
-- Agent-based Systems & Workflows
-- Model Evaluation, Guardrails & Monitoring  
-- Treatment Effect Estimation   
-- Sensitivity & Robustness Analysis  
+- Design **RAG pipelines with retrieval + re-ranking + eval loops**
+- Build **streaming + batch data pipelines** for ML systems
+- Deploy **LLMs as scalable APIs** with observability
+- Engineer **ML platforms** (training → deployment → monitoring)
+- Optimize systems for **latency, reliability, and cost**
 
 ---
 
-## 🐍 Programming & APIs
+## 🔥 What Makes Me Different
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
- 
-## 🔄 Data Engineering
- 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
- 
-- Batch & Stream Processing (Spark, Kafka, Flink)  
-- Data Pipeline Orchestration (Airflow)  
-- ETL/ELT & Data Transformation  
-- Feature Engineering & Data Modeling  
-- Data Lake & Lakehouse Architectures  
+- I combine **Product Thinking + Engineering Execution**
+- I understand **why to build**, not just *how*
+- I bridge **data engineering + ML + infrastructure**
+- I build systems that are **deployable, observable, and scalable**
 
 ---
 
-## ☁️ Cloud & AI Platforms
+## 🧩 System Architecture Focus
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonaws)
-![Amazon SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws)
-![Azure AI](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure)
-![Azure AI Studio](https://img.shields.io/badge/Azure_AI_Studio-0078D4?style=for-the-badge)
-
-- Multi-cloud AI architectures  
-- AI model hosting & inference pipelines  
-- Data lake integrations  
-
----
-
-## ⚙️ MLOps & Model Lifecycle
- 
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
- 
-- Experiment Tracking & Model Registry (MLflow)  
-- CI/CD for ML Systems  
-- Containerized Model Deployment (Docker, Kubernetes)  
-- Infrastructure as Code (Terraform, Ansible)  
-- Model Packaging, Versioning & Reproducibility  
-- Automated Training & Retraining Pipelines  
+Data Sources → Kafka → Spark/Flink → Feature Pipelines
+↓
+Data Lake / Warehouse
+↓
+Model Training (MLflow)
+↓
+LLM / ML Services (FastAPI)
+↓
+Deployment (Docker + Kubernetes)
+↓
+Monitoring (Prometheus + Grafana + ELK)
 
 ---
 
-## ☁️ Cloud & AI Platforms
+---
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonaws)
-![Amazon SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws)
-![Azure AI](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure)
-![Azure AI Studio](https://img.shields.io/badge/Azure_AI_Studio-0078D4?style=for-the-badge)
+## 📊 Impact & Metrics
 
-- Multi-Cloud AI Architectures (AWS, Azure)  
-- AI Model Hosting & Inference Pipelines  
-- Data Lake & Storage Infrastructure  
-- Managed ML Services (SageMaker, Bedrock, Azure AI Studio) 
+- 🚀 Built **production-grade RAG systems** with tool-calling orchestration  
+- ⚙️ Designed **end-to-end ML pipelines** (data ingestion → inference APIs)  
+- 📉 Reduced system complexity via **modular AI microservices architecture**  
+- 📡 Worked with **real-world data pipelines (batch + streaming)**  
+- 🧪 Applied **causal ML for decision systems (policy-level impact)**  
 
 ---
 
-## 📊 Observability & Monitoring
+## 🛠️ Tech Stack
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic)
+### 🧠 AI / ML
+`LLMs` `RAG` `Agentic AI` `LangChain` `Causal ML (EconML)` `Evaluation Pipelines`
 
-- AI Agent Performance Monitoring  
-- Model Drift Detection & Alerting  
-- Logging & Distributed Tracing  
-- Infrastructure & Pipeline Observability 
+### 📡 Data Engineering
+`Apache Spark` `Apache Kafka` `Apache Flink`  
+`ETL / ELT` `Feature Pipelines` `Data Modeling`
 
----
+### ⚙️ MLOps & Infra
+`Kubernetes` `Docker` `MLflow` `Terraform`  
+`CI/CD (GitHub Actions, Jenkins)`
 
-# 🏗️ Selected AI Projects
+### ☁️ Cloud
+`AWS (S3, EKS, SageMaker, Bedrock)`  
+`Azure AI (Azure ML, AI Studio)`
 
-## 🎓 Causal ML for Electricity Aid Allocation
-- Designed end-to-end causal ML pipeline  
-- Estimated treatment effects using EconML  
-- Performed sensitivity analysis  
-- Produced policy-relevant allocation strategy  
+### 🐍 Backend
+`Python` `FastAPI` `Go` `REST APIs`
 
-Repository:  
-👉 https://github.com/SyedTahaAbbas/causal-ml-for-electricity-access  
-
----
-
-# 🎯 Current Focus
-
-- Production-grade LLM systems  
-- Advanced RAG architectures  
-- Agentic AI workflows  
-- AI Platform Engineering  
-- Scalable ML infrastructure  
+### 📊 Observability
+`Prometheus` `Grafana` `ELK Stack`
 
 ---
 
-# 📫 Let’s Connect
+## 🏗️ Featured Project
 
-If you're building AI platforms, deploying LLM systems, or scaling ML infrastructure — let's collaborate.
+### 🎓 Causal ML for Electricity Aid Allocation
+
+🔗 https://github.com/SyedTahaAbbas/causal-ml-for-electricity-access  
+
+- Built **end-to-end causal ML pipeline**
+- Estimated **treatment effects using EconML**
+- Performed **robustness & sensitivity analysis**
+- Delivered **decision-ready allocation insights**
+
+---
+
+## 📈 Currently Focused On
+
+- Advanced **RAG architectures (hybrid retrieval, eval systems)**
+- **Real-time AI systems** 
+- **AI platform engineering**
+- Scaling **LLM systems in production**
+
+---
+
+## 🤝 Let’s Collaborate
+
+If you're building:
+- AI products  
+- Data platforms  
+- ML infrastructure  
+
+→ I’m open to interesting problems and collaborations.
+
+---
+
+## 📊 GitHub Stats
+
+![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedTahaAbbas&show_icons=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedTahaAbbas&layout=compact&hide_border=true)
+
+---
+
+## ⚡ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=SyedTahaAbbas&color=blue)
