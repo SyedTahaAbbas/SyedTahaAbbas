@@ -1,27 +1,30 @@
 # 👋 Hi, I'm Syed Taha Abbas  
-## AI Product Engineer | Building Production-Grade AI Systems 
+## AI & Data Product Engineer | Building Production-Grade AI Platforms, Data Systems & Intelligent Infrastructure
 
 ---
 
 ## ⚡ TL;DR
 
-- 🧠 **AI Systems Engineer** (LLMs, RAG, Agents)  
-- ⚙️ **MLOps + Platform Engineering** (K8s, CI/CD, MLflow)  
-- 📡 **Data Engineering** (Spark, Kafka, Flink)  
-- ☁️ **Cloud-native AI** (AWS, Azure)  
-- 🏗️ Built **end-to-end AI systems from data → model → deployment → monitoring**
+- 🧠 Building **production-grade AI systems** using LLMs, RAG, and agentic workflows  
+- 📡 Engineering **data platforms & ML pipelines** across batch + streaming systems  
+- ⚙️ Bridging **Product Strategy + Distributed Systems + AI Engineering**  
+- ☁️ Deploying scalable AI infrastructure on **AWS & Azure**  
+- 🏗️ Experienced across the full lifecycle: **data → pipelines → models → APIs → monitoring**
 
 ---
 
-## 🧠 What I Actually Do
+# 🧠 What I Actually Build
 
-I build **production AI systems**, not just models.
+I specialize in building **AI-powered data products and platform systems** designed for real-world scale, reliability, and business impact.
 
-- Design **RAG pipelines with retrieval + re-ranking + eval loops**
-- Build **streaming + batch data pipelines** for ML systems
-- Deploy **LLMs as scalable APIs** with observability
-- Engineer **ML platforms** (training → deployment → monitoring)
-- Optimize systems for **latency, reliability, and cost**
+### Core Areas
+- Production-grade **RAG & LLM systems**
+- AI-powered **data platforms**
+- Distributed **data pipelines**
+- ML infrastructure & deployment systems
+- Developer-facing APIs & platform tooling
+- AI systems observability & monitoring
+- Real-time analytics & decision systems
 
 ---
 
