@@ -1,110 +1,83 @@
-# 👋 Hi, I'm Syed Taha Abbas  
-## AI & Data Product Engineer | Building Production-Grade AI Platforms, Data Systems & Intelligent Infrastructure
+# 👋 Hi, I'm Syed Taha Abbas
+
+## AI Product Manager who ships — Building LLM Applications, Agentic AI Systems, RAG Pipelines & Data Platforms
 
 ---
 
 ## ⚡ TL;DR
 
-- 🧠 Building **production-grade AI systems** using LLMs, RAG, and agentic workflows  
-- 📡 Engineering **data platforms & ML pipelines** across batch + streaming systems  
-- ⚙️ Bridging **Product Strategy + Distributed Systems + AI Engineering**  
-- ☁️ Deploying scalable AI infrastructure on **AWS & Azure**  
-- 🏗️ Experienced across the full lifecycle: **data → pipelines → models → APIs → monitoring**
+- 🎯 **AI Product Manager with 9+ years** across product strategy, data platforms, and applied AI
+- 🛠️ **I don't just spec products — I build them:** production RAG systems, agentic workflows, ML pipelines
+- 🧠 Shipped **LLM applications end-to-end**: retrieval architecture → evaluation → deployment → monitoring
+- ⚙️ Bridging **Product Strategy + Distributed Systems + AI Engineering**
+- ☁️ Hands-on across **AWS, Azure, GCP** — from architecture decisions to working code
+
+**Keywords that describe my work:** AI Product Management · Generative AI · LLM Applications · Agentic AI · Multi-Agent Systems · Retrieval-Augmented Generation (RAG) · Vector Search · AI Evaluation · MLOps · Data Engineering · Data Products · Python · FastAPI · LangChain
 
 ---
 
-# 🧠 What I Actually Build
+## 🎯 Product + Engineering, Not Product vs. Engineering
 
-I specialize in building **AI-powered data products and platform systems** designed for real-world scale, reliability, and business impact.
+Most PMs write requirements and hand off. I define the product strategy **and** work through the architecture with engineering — because I've been the engineer.
 
-### Core Areas
-- Production-grade **RAG & LLM systems**
-- AI-powered **data platforms**
-- Distributed **data pipelines**
-- ML infrastructure & deployment systems
-- Developer-facing APIs & platform tooling
-- AI systems observability & monitoring
-- Real-time analytics & decision systems
+**As a PM, I own:** product vision, discovery, roadmaps, prioritization, experimentation strategy, go-to-market, and the metrics that prove it worked.
+
+**As a builder, I ship:** RAG & LLM systems, agentic workflows, data pipelines, APIs, and the observability to keep them running in production.
 
 ---
 
-## 🔥 What Makes Me Different
+## 🧠 What I Build
 
-- I combine **Product Thinking + Engineering Execution**
-- I understand **why to build**, not just *how*
-- I bridge **data engineering + ML + infrastructure**
-- I build systems that are **deployable, observable, and scalable**
-
----
-
-## 🧩 System Architecture Focus
-
-<img width="1536" height="1024" alt="ChatGPT Image Apr 24, 2026, 01_07_18 AM" src="https://github.com/user-attachments/assets/d2e26c0c-9423-474c-be5d-117130874b0d" />
-
----
-
-## 📊 Impact & Metrics
-
-- 🚀 Built **production-grade RAG systems** with tool-calling orchestration  
-- ⚙️ Designed **end-to-end ML pipelines** (data ingestion → inference APIs)  
-- 📉 Reduced system complexity via **modular AI microservices architecture**  
-- 📡 Worked with **real-world data pipelines (batch + streaming)**  
-- 🧪 Applied **causal ML for decision systems (policy-level impact)**  
+- Production-grade **RAG & LLM applications** (hybrid retrieval, evaluation pipelines, guardrails)
+- **Agentic AI systems** — multi-agent orchestration, tool-calling, MCP-based workflows
+- **AI-powered data products** — batch + streaming pipelines, feature engineering, analytics
+- **Distributed data pipelines** & real-time analytics systems
+- **Developer-facing APIs** & platform tooling
+- **Causal ML** for decision systems (policy-level impact)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🧠 AI / ML
-`LLMs` `RAG` `Agentic AI` `LangChain` `Causal ML (EconML)` `Evaluation Pipelines`
+`LLMs` `RAG` `Agentic AI` `Multi-Agent Orchestration` `LangChain` `Causal ML (EconML)` `Evaluation Pipelines` `pgvector`
 
 ### 📡 Data Engineering
-`Apache Spark` `Apache Kafka` `Apache Flink`  
-`ETL / ELT` `Feature Pipelines` `Data Modeling`
+`Apache Spark` `Apache Kafka` `ETL / ELT` `Feature Pipelines` `Data Modeling` `Batch + Streaming Pipelines`
 
-### ⚙️ MLOps & Infra
-`Kubernetes` `Docker` `MLflow` `Terraform`  
-`CI/CD (GitHub Actions, Jenkins)`
-
-### ☁️ Cloud
-`AWS (S3, EKS, SageMaker, Bedrock)`  
+### ☁️ Cloud & Data Platforms
+`GCP (BigQuery, Dataflow, Dataproc, Pub/Sub, Cloud Storage, Composer)` — *GCP Professional Data Engineer, in progress*
+`AWS (S3, EKS, SageMaker, Bedrock)`
 `Azure AI (Azure ML, AI Studio)`
 
-### 🐍 Backend
-`Python` `FastAPI` `Go` `REST APIs`
+### ⚙️ MLOps & Infra
+`Docker` `Kubernetes` `MLflow` `Terraform` `CI/CD (GitHub Actions)`
 
-### 📊 Observability
-`Prometheus` `Grafana` `ELK Stack`
+### 🐍 Backend
+`Python` `FastAPI` `SQL` `REST APIs` `Redis` `PostgreSQL`
 
 ---
 
 ## 🏗️ Featured Project
 
 ### 🎓 Causal ML for Electricity Aid Allocation
-
-🔗 https://github.com/SyedTahaAbbas/causal-ml-for-electricity-access  
-
-- Built **end-to-end causal ML pipeline**
-- Estimated **treatment effects using EconML**
-- Performed **robustness & sensitivity analysis**
-- Delivered **decision-ready allocation insights**
+🔗 https://github.com/SyedTahaAbbas/causal-ml-for-electricity-access
+- End-to-end **causal ML pipeline** — data ingestion to decision-ready insights
+- Estimated **treatment effects using EconML**, validated via robustness & sensitivity analysis
+- **Turning model outputs into allocation decisions** policymakers can act on
 
 ---
 
-## 📈 Currently Focused On
+## 📈 Currently Building
 
-- Advanced **RAG architectures (hybrid retrieval, eval systems)**
-- **Real-time AI systems** 
-- **AI platform engineering**
-- Scaling **LLM systems in production**
+- An **AI-native multimodal retrieval platform** — hybrid embeddings, agentic workflows, sub-second semantic search at scale (FastAPI · PostgreSQL · pgvector · Redis · Ollama)
+- Exploring **advanced RAG architectures**, evaluation systems, and LLM production patterns
+- Deepening **GCP data engineering** — BigQuery, Dataflow, and streaming pipeline patterns
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Open To
 
-If you're building:
-- AI products  
-- Data platforms  
-- ML infrastructure  
+**AI Product Manager · Senior Product Manager · Founding PM roles** — startups and scale-ups across Europe (Berlin · Amsterdam · Munich · San Francisco · Boston · Singapore · Remote).
 
-→ I’m open to interesting problems and collaborations.
+Especially interested in early-stage teams building agentic AI, LLM products, or AI-native platforms.
